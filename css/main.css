@@ -116,3 +116,12 @@ hr {
 .wb h4 {
 	font-size: 35px;
 }
+#lg {
+	background: #ebebeb;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+#lg h4{
+	font-size: 45px;
+}
