@@ -94,3 +94,18 @@ hr {
 .w h4 {
 	font-size: 25px;
 }
+#dg {
+	background: #e0e0e0;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+#dg h4 {
+	font-size: 40px;
+}
+.tilt {
+	transition: all 0.5s ease;
+}
+.tilt:hover {
+	transform: rotate(-10deg);
+}
