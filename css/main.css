@@ -125,3 +125,15 @@ hr {
 #lg h4{
 	font-size: 45px;
 }
+#r {
+	background: #ff7878;
+	padding-top: 78px;
+	padding-bottom: 78px;
+}
+#r h4 {
+	color: white;
+	font-size: 20px;
+}
+#r p {
+	color: white;
+}
